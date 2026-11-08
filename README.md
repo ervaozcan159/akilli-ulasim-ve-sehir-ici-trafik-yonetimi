@@ -4,7 +4,7 @@ Akıllı ulaşım yöntemlerinin toplu taşımayla entegrasyonunun şehir içi t
 
 ---
 
-## 1. Sistem Tasarımı ve Modelleme Çalışmaları
+## Diagramlar
 
 <p align="center">
   <img width="708" height="646" alt="Ekran görüntüsü 1" src="https://github.com/user-attachments/assets/1287091a-40bb-41b6-8a0f-2cda65efd169" />
@@ -32,11 +32,10 @@ Akıllı ulaşım yöntemlerinin toplu taşımayla entegrasyonunun şehir içi t
 
 ---
 
-## 2. 6. Hafta Veri Analizi Çalışması
+## Veri Analizi Çalışması
 
 İBB Açık Veri Portalı üzerinden alınan Ocak 2025 saatlik trafik akış verileri Pandas kütüphanesi ile incelenmiş, saat bazlı hız dağılımı görselleştirilmiştir.
 
 * **Çalışma Şekli:** Bireysel Teslim
-* **Öğrenci:** Erva Özcan (361526041)
 * **Kullanılan Dosyalar:** `trafik_2025.csv`, `kullanilan_veri.csv`
 * **Yapılan İşlemler:** Büyük veri seti üzerinde tanımlayıcı istatistikler üretilmiş, saatlik ortalama hızlar gruplanmış ve Matplotlib ile çubuk grafik çıktısı elde edilmiştir.
